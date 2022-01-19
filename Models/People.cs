@@ -7,5 +7,6 @@ namespace pr1.Models
 {
     public class People
     {
+
     }
 }
